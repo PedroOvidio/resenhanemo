@@ -1,0 +1,42 @@
+
+header{
+    background-color: #035AA6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #f87558;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 0px;
+    margin: 0%;
+    padding: 0%;
+}
+aside{
+    color: #f15836;
+}
+aside > ul{
+    list-style-position: inside;
+    columns: 2;
+    text-align: left;
+    font-size: 20px;
+}
+body{
+    background-image: linear-gradient(to bottom, #079DD9, #0CC8F2 );
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    color: #F2D649;
+}
+header > h1{
+    color: #F24E29;
+    text-shadow: 5px 5px 5px black;
+}
+.img1{
+    text-align: center;
+}
+.nemo{
+    float: left;
+}
+footer{
+    text-align: center;
+}
